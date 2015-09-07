@@ -1,0 +1,10 @@
+{
+  "name": "TrackingWeb",
+  "version": "1.0.0",
+  "description": "TrackingWeb",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "1.5.2"
+  }
+}
