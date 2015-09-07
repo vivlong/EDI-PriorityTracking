@@ -9,9 +9,9 @@
     <title>Tracking Service</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit">
-    <link rel="stylesheet" href="App_Themes/Bootstrap/css/bootstrap.min.css">
-    <script src="App_Themes/JQuery/jquery-1.11.2.min.js"></script>
-    <script src="App_Themes/Bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="App_Themes/bootstrap/dist/css/bootstrap.min.css">
+    <script src="App_Themes/jquery/dist/jquery.min.js"></script>
+    <script src="App_Themes/bootstrap/dist/js/bootstrap.min.js"></script>
     <script type="text/javascript">
         function ShowMsg(result) {
             var strs = result.split('#');
