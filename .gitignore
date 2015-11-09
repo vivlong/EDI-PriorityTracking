@@ -211,3 +211,5 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 PrecompiledWeb
+/TrackingWeb/App_Themes/bootstrap
+/TrackingWeb/App_Themes/jquery
